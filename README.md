@@ -1,3 +1,3 @@
-# Adafruit IO c#
+# Adafruit IO C#
 
-A c# library and examples for use with [io.adafruit.com](https://io.adafruit.com).
+A C# library and examples for use with [io.adafruit.com](https://io.adafruit.com).
