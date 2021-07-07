@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Josh "Sn0wfa11" Hale</Authors>
+    <Company>Sn0wfa11_Labs</Company>
+    <Description>C# Library for use with io.adafruit.com.</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageProjectUrl>https://github.com/sn0wfa11/Adafruit_IO_CS</PackageProjectUrl>
+    <PackageTags>AdafruitIO</PackageTags>
+    <PackageReleaseNotes>This is the first release of Adafruit IO for C#. Only HTTP is supported at this time. MQTT is not currently supported.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
