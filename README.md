@@ -2,9 +2,11 @@
 
 A C# library and examples for use with [io.adafruit.com](https://io.adafruit.com).
 
-Current Releases Can be found [here.](https://github.com/sn0wfa11/Adafruit_IO_CS/releases) as a Nuget package.
+The current release can be found [here.](https://github.com/sn0wfa11/Adafruit_IO_CS/releases) as a Nuget package.
 
-Simple examples are being built and will be added soon.
+**NOTE: Only HTTP is supported at this time. I am looking into adding MQTT in the future**
+
+Simple examples are being built and will be added soon. (Data send and receive is in the examples folder.)
 
 ## Installation
 
